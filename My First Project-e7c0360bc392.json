@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turnkey-citadel-167611",
+  "private_key_id": "e7c0360bc392a049db36b80a7399b025278d32b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCH1T54W7kpwR4C\nHbiFTtVKs4yzweWfcEKkQncVJvz8jISCytfzNtQESAyZL4qPt8nOwtTE9sHxQdS7\nbOzKgTZBsYu0xGwyw0KpxPWCnON+c8VvcwwqxYSZ9uZ2bfr5Gp4tFSNMLLMzVS5z\n1cyeWjqGKMQfCZ2hhwMeV5Px4yDvasQzRDPnm+iNv4wFvvQXlLaSklyqNtTi7j79\nPnpgVOnc47Cmurz0Fk3GJSprgbiTdwRNbRgh5wzjcVfISOvjClyaDtLy9aKYKRNk\nckPHUGOrgvZP1s4Ivcv7TOv15YTbUlNASZskYvwBFlGrYDx2oGWLa5VGzcJmBNG2\nccKg6GFTAgMBAAECggEAB0aiaoMLR5PLHjTmWemvnilA+64CtUgnobHXvB/TBFoo\njPL9n08MC1CqsBfuVaV0H2mrSQOovtoWYZXDl1NViy5N+/hbjVqNOxfMSNtLik38\nQOyKNc5PvImPrb9VZruIxoRv2Bg63yCMdPL6W28c3GvZmYoD0g+v2JO7XoUakghz\nkI0T54LFqsIfOsf4n14n9mf0Kc9k7xv8FidEzlTPY37POiqtfoADbNDc53F0qFqw\nu4KNkGfdfJHEWfKAYzFd/O8P+XpFJ9yyDTSUVghTXRj8iUPvyGykOeci8LD7Mdc5\nyMwYsKHPE259HpLPZfuZzgawC/ID5umF/h+vcK69OQKBgQC8Ou3tGD9KAkFB0+Nm\ngyDIaBwnMPEulJEj1TzVRr5Oyj1vHvPx3ELBCLLX9MEay3MVFO66eD0m62k2hTGO\nn2QQunHekuzpo9suvcUdAkqdYVvM2Q9Et6PUyUXeF6itRV2ht4NIe6k2JOmiNZrn\n8YMGqJ48ouxCrrUQWd3cAmHxawKBgQC4vOS8r3HTxvpxp1wyum0NJ3EGtct75oaV\n6fVlihCzeuqbJ+NngJTN1lRC6KIzG3OcgpmiUuOgJhnt3xYsUWnm7LMFU7qAbbJ/\njI9b4vuJS1SoJrX1SoHfFzzriI6+g0sGx+YxD5XOX+g+Dv1NK3RiczE/N2baCa9K\n9WnkVO6BuQKBgQCuUsk9FoKusQ3swCbPLsvyrnC8XxhOsmsEy5yuTPk9ERH6UqlM\nKlhsW/j+Bf+9KASp1pwNeAPygn0LcCloU/ehgnqozlu5OfZpAHmIFzIxNRSGz9PT\nKVwCWnFpcXHXHvHLLqDYRSZ+LYtuncSb4NEfHpSFxcGXNCQeQ4w0EMTShwKBgGlw\nPmlHBYOm9Lg7mk7FwooYcdUvm3UbDMOxpcMPexrFU/O8X3lqlQOqiasqlbDvwRua\nGs/f2VVFidUPV9txmC0Z+c9Xi4HTmmZcNlJuibxBx461kXLv1JIc9ENGTJqF2yOC\nompsB8ejS61n5sDNxX6PWpNHLqfRkUAKNCcDJqHZAoGAZQZHm+8RdgrGog9lrXtJ\nWZBOUq619+AqmRXTX58rGSKUA+PG508IEa5ZtLiIqr0HSP7gYvJ74GDxxiVLPl40\nK0JH+c0pCNokSU9TxV9pnoFJcUadzZ/9JNS9U/knmSpYq+TqURIzlG7aW1J6xIv6\nDn/D8qKnDPg9TcjUJb3/5go=\n-----END PRIVATE KEY-----\n",
+  "client_email": "turnkey-citadel-167611@appspot.gserviceaccount.com",
+  "client_id": "115013800064586809807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/turnkey-citadel-167611%40appspot.gserviceaccount.com"
+}

@@ -5,6 +5,9 @@ handlers:
 - url: /
   script: index.html
 
+- url: /contact.php
+  script: contact.php
+
 - url: /css
   static_dir: css
 
