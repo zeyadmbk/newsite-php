@@ -1,6 +1,6 @@
+language: php
 deploy:
   provider: gae
-  keyfile: YOUR SERVICE ACCOUNT JSON FILE
   project: turnkey-citadel-167611
 before_install:
 - openssl aes-256-cbc -K $encrypted_b130045bcdcd_key -iv $encrypted_b130045bcdcd_iv
