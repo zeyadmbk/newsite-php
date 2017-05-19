@@ -19,3 +19,6 @@ handlers:
 
 - url: /fonts
   static_dir: fonts
+
+- url: /font
+  static_dir: font
