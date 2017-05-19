@@ -1,2 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites/>
+<phpunit bootstrap="./vendor/autoload.php" colors="true">
+    <testsuites>
+        <testsuite name="Deanoj Travis Minimal - Test Suite">
+            <directory suffix="Test.php">./test</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
