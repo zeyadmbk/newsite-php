@@ -4,3 +4,18 @@ api_version: 1
 handlers:
 - url: /
   script: index.html
+
+- url: /css
+  static_dir: css
+
+- url: /img
+  static_dir: img
+
+- url: /js
+  static_dir: js
+
+- url: /min
+  static_dir: min
+
+- url: /fonts
+  static_dir: fonts
