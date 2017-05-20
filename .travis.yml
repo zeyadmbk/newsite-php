@@ -2,6 +2,7 @@ language: php
 deploy:
   provider: gae
   project: turnkey-citadel-167611
+  keyfile: client-secret.json
 before_install:
 - openssl aes-256-cbc -K $encrypted_b130045bcdcd_key -iv $encrypted_b130045bcdcd_iv
   -in client-secret.json.enc -out client-secret.json -d
