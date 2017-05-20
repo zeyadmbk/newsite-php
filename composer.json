@@ -1,0 +1,17 @@
+{
+    "name": "zeyad/zeyad-io",
+    "description": "Zeyad IO",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zeyad Bin Kuwair",
+            "email": "zeyadmbk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    }
+}
